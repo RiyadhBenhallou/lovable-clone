@@ -1,0 +1,5 @@
+{
+  "name": "LovableClone",
+  "description": "A Lovable-like AI website builder that generates simple HTML/CSS/JS apps from text prompts. Features a real-time preview and code inspection.",
+  "requestFramePermissions": []
+}
